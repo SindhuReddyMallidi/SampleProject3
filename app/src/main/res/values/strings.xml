@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SampleProject3</string>
+    <string-array name="names">
+        <item>John</item>
+        <item>Efim</item>
+        <item>Mia</item>
+        <item>Rose</item>
+    </string-array>
+    <string-array name="details">
+        <item>details of John</item>
+        <item>details of Efim</item>
+        <item>details of Mia</item>
+        <item>details of Rose</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="pos">pos</string>
+    <string name="default_text">default text</string>
+    <string name="link">android.appwidget.action.APPWIDGET_UPDATE</string>
+</resources>
